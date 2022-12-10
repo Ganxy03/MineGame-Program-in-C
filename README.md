@@ -1,4 +1,4 @@
-# Mine_Game
+# Mine_Game（c语言编写扫雷）
 Just write some code for classical games,maybe have some references.
 
 以下是readme部分：
